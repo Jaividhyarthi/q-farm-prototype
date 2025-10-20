@@ -1,0 +1,581 @@
+{
+  "advisories": [
+    {
+      "id": "ba2d7694c7174d28816201ca5484ab6b",
+      "farmer_name": "jai",
+      "crop": "wheat",
+      "soil_type": "red soil",
+      "land_area": 12.0,
+      "image_path": "/workspaces/q-farm-prototype/backend/storage/uploads/fc637637cebf45c888c046feee966a73.jpg",
+      "ml_result": {
+        "label": "Healthy crop",
+        "confidence": 0.8
+      },
+      "advisory_text": "For wheat crop on red soil soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-19T07:02:38.561385"
+    },
+    {
+      "id": "35a9882cff78405ba08e2104eb8df28f",
+      "farmer_name": "jai",
+      "crop": "wheat",
+      "soil_type": "red soil",
+      "land_area": 2.0,
+      "latitude": "13.0145",
+      "longitude": "80.1737",
+      "weather_info": {
+        "temp": null,
+        "humidity": null,
+        "description": "Unavailable"
+      },
+      "advisory_text": "For wheat crop on red soil soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T01:34:25.299596"
+    },
+    {
+      "id": "87c90f6a4d814b16bbc169a7113747f6",
+      "farmer_name": "jai",
+      "crop": "wheat",
+      "soil_type": "red soil",
+      "land_area": 2.0,
+      "latitude": "13.0145",
+      "longitude": "80.1737",
+      "weather_info": {
+        "temp": null,
+        "humidity": null,
+        "description": "Unavailable"
+      },
+      "advisory_text": "For wheat crop on red soil soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T01:34:32.689332"
+    },
+    {
+      "id": "381f5737a4184b01b9656733d4bee41d",
+      "farmer_name": "jai",
+      "crop": "wheat",
+      "soil_type": "red soil",
+      "land_area": 2.0,
+      "latitude": "13.0145",
+      "longitude": "80.1737",
+      "weather_info": {
+        "temp": null,
+        "humidity": null,
+        "description": "Unavailable"
+      },
+      "advisory_text": "For wheat crop on red soil soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T01:34:36.522517"
+    },
+    {
+      "id": "a526f354e2cc4263a0414d2e49f36be8",
+      "farmer_name": "jai",
+      "crop": "wheat",
+      "soil_type": "red soil",
+      "land_area": 2.0,
+      "latitude": "13.0145",
+      "longitude": "80.1737",
+      "weather_info": {
+        "temp": null,
+        "humidity": null,
+        "description": "Unavailable"
+      },
+      "advisory_text": "For wheat crop on red soil soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T01:34:38.098402"
+    },
+    {
+      "id": "d1b5cf23a71242beb536bd726e70f940",
+      "farmer_name": "jai",
+      "crop": "wheat",
+      "soil_type": "red soil",
+      "land_area": 2.0,
+      "latitude": "13.0145",
+      "longitude": "80.1737",
+      "weather_info": {
+        "temp": 25.63,
+        "humidity": 96,
+        "description": "Mist"
+      },
+      "advisory_text": "For wheat crop on red soil soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T01:38:26.080545"
+    },
+    {
+      "id": "3c9d830e495346d385ffffa7dcfa4462",
+      "farmer_name": "jai",
+      "crop": "wheat",
+      "soil_type": "red soil",
+      "land_area": 2.0,
+      "latitude": "13.0145",
+      "longitude": "80.1737",
+      "weather_info": {
+        "temp": 25.63,
+        "humidity": 96,
+        "description": "Mist"
+      },
+      "market_info": {
+        "region": "Chennai",
+        "price": 2150,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For wheat crop on red soil soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T01:43:23.167379"
+    },
+    {
+      "id": "9c2a428172c94c03bda3663c1d483512",
+      "farmer_name": "jai",
+      "crop": "wheat",
+      "soil_type": "red soil",
+      "land_area": 2.0,
+      "latitude": "13.0145",
+      "longitude": "80.1737",
+      "manual_location": "Coimbatore",
+      "weather_info": {
+        "temp": 23.88,
+        "humidity": 83,
+        "description": "Mist"
+      },
+      "market_info": {
+        "region": "Coimbatore",
+        "price": 2200,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For wheat crop on red soil soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T01:46:39.447801"
+    },
+    {
+      "id": "6cd4d66c689e4b05ba7a283eef36f47a",
+      "farmer_name": "jai",
+      "crop": "wheat",
+      "soil_type": "red soil",
+      "land_area": 2.0,
+      "latitude": "13.0145",
+      "longitude": "80.1737",
+      "manual_location": "madurai",
+      "weather_info": {
+        "temp": 25.01,
+        "humidity": 94,
+        "description": "Broken Clouds"
+      },
+      "market_info": {
+        "region": "Chennai",
+        "price": 2150,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For wheat crop on red soil soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T01:46:55.051418"
+    },
+    {
+      "id": "09046862acc347d9a0ac8786441f62ea",
+      "farmer_name": "jai",
+      "crop": "wheat",
+      "soil_type": "red soil",
+      "land_area": 2.0,
+      "latitude": "13.0145",
+      "longitude": "80.1737",
+      "manual_location": "madurai",
+      "weather_info": {
+        "temp": 25.01,
+        "humidity": 94,
+        "description": "Broken Clouds"
+      },
+      "market_info": {
+        "region": "Chennai",
+        "price": 2150,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For wheat crop on red soil soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T01:46:56.377580"
+    },
+    {
+      "id": "566b18552d1e4371861b398db6866978",
+      "farmer_name": "jai",
+      "crop": "wheat",
+      "soil_type": "red soil",
+      "land_area": 2.0,
+      "latitude": "13.0145",
+      "longitude": "80.1737",
+      "manual_location": "madurai",
+      "weather_info": {
+        "temp": 25.01,
+        "humidity": 94,
+        "description": "Broken Clouds"
+      },
+      "market_info": {
+        "region": "Chennai",
+        "price": 2150,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For wheat crop on red soil soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T01:47:00.850302"
+    },
+    {
+      "id": "c2f025fd5ed349a89a28bc24afe482ea",
+      "farmer_name": "jai",
+      "crop": "wheat",
+      "soil_type": "red soil",
+      "land_area": 2.0,
+      "latitude": "13.0145",
+      "longitude": "80.1737",
+      "manual_location": "Madurai",
+      "weather_info": {
+        "temp": 25.01,
+        "humidity": 94,
+        "description": "Broken Clouds"
+      },
+      "market_info": {
+        "region": "Madurai",
+        "price": 2100,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For wheat crop on red soil soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T01:47:07.941802"
+    },
+    {
+      "id": "0a14bfdff81d4532875ef43016bb3ef9",
+      "farmer_name": "jai",
+      "crop": "rice",
+      "soil_type": "red soil",
+      "land_area": 2.0,
+      "latitude": "13.0145",
+      "longitude": "80.1737",
+      "manual_location": "Madurai",
+      "weather_info": {
+        "temp": 25.01,
+        "humidity": 94,
+        "description": "Broken Clouds"
+      },
+      "market_info": {
+        "region": "Madurai",
+        "price": 1980,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For rice crop on red soil soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T01:47:26.662398"
+    },
+    {
+      "id": "28dc5f868f964bb687eb93519307d486",
+      "farmer_name": "jai",
+      "crop": "rice",
+      "soil_type": "red soil",
+      "land_area": 2.0,
+      "latitude": "13.0145",
+      "longitude": "80.1737",
+      "manual_location": "",
+      "weather_info": {
+        "temp": 25.63,
+        "humidity": 96,
+        "description": "Mist"
+      },
+      "market_info": {
+        "region": "Chennai",
+        "price": 2000,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For rice crop on red soil soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T01:47:46.944119"
+    },
+    {
+      "id": "ebda12a3219544f1bf1fa763242d36a7",
+      "farmer_name": "jai",
+      "crop": "rice",
+      "soil_type": "red soil",
+      "land_area": 2.0,
+      "latitude": "13.0145",
+      "longitude": "80.1737",
+      "manual_location": "",
+      "weather_info": {
+        "temp": 25.6,
+        "humidity": 96,
+        "description": "Mist"
+      },
+      "market_info": {
+        "region": "Chennai",
+        "price": 2000,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For rice crop on red soil soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T01:48:41.501028"
+    },
+    {
+      "id": "003ea4a9d5ca4b1ba883088a0768ee33",
+      "farmer_name": "jai",
+      "crop": "rice",
+      "soil_type": "red soil",
+      "land_area": 2.0,
+      "latitude": "13.0145",
+      "longitude": "80.1737",
+      "manual_location": "Madurai",
+      "weather_info": {
+        "temp": 25.01,
+        "humidity": 94,
+        "description": "Broken Clouds"
+      },
+      "market_info": {
+        "region": "Madurai",
+        "price": 1980,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For rice crop on red soil soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T01:49:10.012377"
+    },
+    {
+      "id": "2906565a5fa34ca39577a42fccc764a6",
+      "farmer_name": "jai",
+      "crop": "rice",
+      "soil_type": "red",
+      "land_area": 2.0,
+      "latitude": "13.0384",
+      "longitude": "80.2324",
+      "manual_location": "",
+      "weather_info": {
+        "temp": 28.07,
+        "humidity": 89,
+        "description": "Mist"
+      },
+      "market_info": {
+        "region": "Chennai",
+        "price": 2000,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For rice crop on red soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T09:56:59.393131"
+    },
+    {
+      "id": "e21aab64f0c14290884dad69e9d74397",
+      "farmer_name": "jai",
+      "crop": "rice",
+      "soil_type": "red",
+      "land_area": 2.0,
+      "latitude": "13.0384",
+      "longitude": "80.2324",
+      "manual_location": "Madurai",
+      "weather_info": {
+        "temp": 26.01,
+        "humidity": 89,
+        "description": "Broken Clouds"
+      },
+      "market_info": {
+        "region": "Madurai",
+        "price": 1980,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For rice crop on red soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T09:57:07.166682"
+    },
+    {
+      "id": "054e1d461ab047d89dee2afc65d5f299",
+      "farmer_name": "jai",
+      "crop": "rice",
+      "soil_type": "red",
+      "land_area": 3.0,
+      "latitude": "13.0384",
+      "longitude": "80.2324",
+      "manual_location": "",
+      "weather_info": {
+        "temp": 28.2,
+        "humidity": 89,
+        "description": "Mist"
+      },
+      "market_info": {
+        "region": "Chennai",
+        "price": 2000,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For rice crop on red soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T10:41:16.438978"
+    },
+    {
+      "id": "222f5536b2484ee6ab7442dc0d64cd1d",
+      "farmer_name": "jai",
+      "crop": "rice",
+      "soil_type": "red",
+      "land_area": 3.0,
+      "latitude": "13.0384",
+      "longitude": "80.2324",
+      "manual_location": "",
+      "weather_info": {
+        "temp": 28.2,
+        "humidity": 89,
+        "description": "Mist"
+      },
+      "market_info": {
+        "region": "Chennai",
+        "price": 2000,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For rice crop on red soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T10:43:39.845276"
+    },
+    {
+      "id": "330b5063a09645fcb8e56b9ac052f84a",
+      "farmer_name": "jai",
+      "crop": "rice",
+      "soil_type": "red",
+      "land_area": 3.0,
+      "latitude": "13.0384",
+      "longitude": "80.2324",
+      "manual_location": "Madurai",
+      "weather_info": {
+        "temp": 25.01,
+        "humidity": 88,
+        "description": "Thunderstorm"
+      },
+      "market_info": {
+        "region": "Madurai",
+        "price": 1980,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For rice crop on red soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T10:43:47.238000"
+    },
+    {
+      "id": "d0d9d7307d184410b1a5f5b1ce0c763f",
+      "farmer_name": "jai",
+      "crop": "rice",
+      "soil_type": "red",
+      "land_area": 3.0,
+      "latitude": "13.0384",
+      "longitude": "80.2324",
+      "manual_location": "Madurai",
+      "weather_info": {
+        "temp": 25.01,
+        "humidity": 88,
+        "description": "Thunderstorm"
+      },
+      "market_info": {
+        "region": "Madurai",
+        "price": 1980,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For rice crop on red soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T10:44:23.050009"
+    },
+    {
+      "id": "51b4d8b900cf4fb5bde9c26240674a5e",
+      "farmer_name": "jai",
+      "crop": "rice",
+      "soil_type": "red",
+      "land_area": 3.0,
+      "latitude": "13.0384",
+      "longitude": "80.2324",
+      "manual_location": "Madurai",
+      "weather_info": {
+        "temp": 25.01,
+        "humidity": 88,
+        "description": "Thunderstorm"
+      },
+      "market_info": {
+        "region": "Madurai",
+        "price": 1980,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For rice crop on red soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T10:44:26.611161"
+    },
+    {
+      "id": "bfcfa49f8c19420cbd88798a690ec660",
+      "farmer_name": "jai",
+      "crop": "rice",
+      "soil_type": "red",
+      "land_area": 3.0,
+      "latitude": "13.0384",
+      "longitude": "80.2324",
+      "manual_location": "Madurai",
+      "weather_info": {
+        "temp": 25.01,
+        "humidity": 88,
+        "description": "Thunderstorm"
+      },
+      "market_info": {
+        "region": "Madurai",
+        "price": 1980,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For rice crop on red soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T10:46:36.414643"
+    },
+    {
+      "id": "8f72cbd741004ed7acc582038f8f3209",
+      "farmer_name": "jai",
+      "crop": "rice",
+      "soil_type": "red",
+      "land_area": 3.0,
+      "latitude": "13.0384",
+      "longitude": "80.2324",
+      "manual_location": "Coimabatore",
+      "weather_info": {
+        "description": "Unavailable",
+        "temp": null,
+        "humidity": null
+      },
+      "market_info": {
+        "region": "Chennai",
+        "price": 2000,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For rice crop on red soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T10:46:44.899619"
+    },
+    {
+      "id": "7ca094c8134b40c2a5b767cd20551465",
+      "farmer_name": "jai",
+      "crop": "rice",
+      "soil_type": "red",
+      "land_area": 3.0,
+      "latitude": "13.0384",
+      "longitude": "80.2324",
+      "manual_location": "Coimabatore",
+      "weather_info": {
+        "description": "Unavailable",
+        "temp": null,
+        "humidity": null
+      },
+      "market_info": {
+        "region": "Chennai",
+        "price": 2000,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For rice crop on red soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T10:46:47.104353"
+    },
+    {
+      "id": "6b04d4d99ce44bcc9a40e8d369c7818a",
+      "farmer_name": "jai",
+      "crop": "rice",
+      "soil_type": "red",
+      "land_area": 3.0,
+      "latitude": "13.0384",
+      "longitude": "80.2324",
+      "manual_location": "Coimabatore",
+      "weather_info": {
+        "description": "Unavailable",
+        "temp": null,
+        "humidity": null
+      },
+      "market_info": {
+        "region": "Chennai",
+        "price": 2000,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For rice crop on red soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T10:46:49.033143"
+    },
+    {
+      "id": "5da81f5c71324db4ba09b2887c36d47d",
+      "farmer_name": "jai",
+      "crop": "rice",
+      "soil_type": "red",
+      "land_area": 3.0,
+      "latitude": "13.0384",
+      "longitude": "80.2324",
+      "manual_location": "Trichy",
+      "weather_info": {
+        "temp": 29.05,
+        "humidity": 89,
+        "description": "Mist"
+      },
+      "market_info": {
+        "region": "Chennai",
+        "price": 2000,
+        "currency": "INR/quintal"
+      },
+      "advisory_text": "For rice crop on red soil, analysis shows Healthy crop. Maintain regular irrigation.",
+      "created_at": "2025-10-20T10:46:59.572386"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+crop,soil_type,manual_location,temp,humidity,market_price,advisory_text,created_at,month,temperature_bucket,humidity_bucket,healthy_crop
+Rice,Red,,27.43,91.0,2000.0,"For rice crop on red soil, analysis shows Healthy crop. Maintain regular irrigation.",2025-10-20T10:59:13.799221,10.0,Medium,Humid,True
+Nan,Nan,Nan,27.43,91.0,2000.0,nan,,,Medium,Humid,False
